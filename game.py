@@ -70,7 +70,7 @@ if __name__ == "__main__":
                 break
 
             if game.all_filled() == True:
-                print("What a shame. Noone won. Try again?")
+                print("The only winning move is not to play. Try again?")
                 break
 
             # Otherwise, pass turn
